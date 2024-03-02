@@ -32,9 +32,9 @@ I actively contribute to open source projects, including:
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](Link)
+- LinkedIn: [Your LinkedIn Profile]((https://bhargavakush111.wixsite.com/website))
 - Twitter: [Your Twitter Profile](Link)
-- Website: [Your Personal Website/Blog](Link)
+- Website: [Your Personal Website/Blog]((https://bhargavakush111.wixsite.com/website))
 
 ## Stats
 
