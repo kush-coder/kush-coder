@@ -1,7 +1,7 @@
 # Hey, I'm Kush 👋
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/kush-bhargava-071901195)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-bhargava-071901195)
+
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
 I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
