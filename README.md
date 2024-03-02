@@ -4,8 +4,8 @@
 
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
-I recently graduated from the [Shri Ramdeobaba College of Engineering](https://www.rknec.edu/) program in Spring 2022.
-I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
+I recently Post graduated from the [Shri Ramdeobaba College of Engineering](https://www.rknec.edu/) program in MCA 2020-22.
+Currently working [Restaurant Management Software ](https://ciferon.com/) as a fullstack developer.
 
 ## :game_die: Join my community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-16010-blue)
