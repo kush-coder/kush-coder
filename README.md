@@ -1,6 +1,7 @@
 # Hey, I'm Kush 👋
 
- [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/kush-bhargava-071901195)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/kush-bhargava-071901195)
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
 I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
