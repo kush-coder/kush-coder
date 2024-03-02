@@ -5,7 +5,7 @@
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
 I recently Post graduated from the [Shri Ramdeobaba College of Engineering](https://www.rknec.edu/) program in MCA 2020-22.
-Currently working [Restaurant Management Software ](https://ciferon.com/) as a fullstack developer.
+Currently working on [Restaurant Management Software ](https://ciferon.com/) as a fullstack developer.
 
 ## :game_die: Join my community Connect Four game!
 ![](https://img.shields.io/badge/Moves%20played-16010-blue)
