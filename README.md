@@ -60,4 +60,11 @@ Nice to meet you! I'm currently working on [Restaurant Management Software ](htt
 I recently Post graduated from the [Shri Ramdeobaba College of Engineering](https://www.rknec.edu/) program in MCA 2020-22.
 
 
+</br>
+<p style="display: flex; justify-contect: space-between;">
+
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
+
 
