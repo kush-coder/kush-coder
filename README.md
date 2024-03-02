@@ -1,6 +1,6 @@
-# Hey, I'm Jonathan 👋
+# Hey, I'm Kush 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@JonathanGin52-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jonathangin52)](https://twitter.com/jonathangin52) [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/)
+ [![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/kush-bhargava-071901195)
 
 Nice to meet you! I'm currently working at GitHub as a software engineer.
 I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
