@@ -49,12 +49,41 @@
 
 ---
 
-### 🌐 Deployment Platforms
+### 🌍 Deployment Platforms
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔧 Multi-Tenant ERP & POS System (6 months | US)
+- Designed a complete ERP solution including POS, KDS, Inventory, Billing, and Admin Panel.
+- Used Firebase + CouchDB for offline-first and real-time sync.
+- Built REST APIs and role-based access for centralized restaurant operations.
+
+#### 📲 BNM Customer & Partner Apps (5 months | India)
+- Developed mobile apps using Ionic + Firebase for booking and service management.
+- Features: OTP login, earnings dashboard, BLE printing, and route tracking.
+- Fully integrated with Admin Panel for real-time control.
+
+#### 📊 Hindalco Attendance System (6 months | India)
+- Attendance and shift compliance system built with .NET and biometric integration.
+- Enabled secure role-based login, payroll export, and live dashboards.
+
+#### 🛒 Merchant & Kitchen Display Systems (4 months | UK, Germany)
+- Created real-time apps for order tracking, ticket display, and staff workflow optimization.
+- Firebase-based syncing and alert systems for fast kitchen response.
+
+#### ⏱️ Queue Management System (2 months | India)
+- Token-based QMS with SMS notifications, admin control, and real-time updates.
+
+#### 🔐 Contactless System Integration (2 months | US)
+- QR & NFC-based authentication and booking flows for web and mobile.
+- Enhanced safety with fallback support and zero-contact UX.
 
 ---
 
