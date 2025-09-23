@@ -24,6 +24,7 @@
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D6?style=flat&logo=windows&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
@@ -35,7 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
 ---
 
 ### 🧠 Knowledge Areas
