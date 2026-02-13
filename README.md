@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kush Bhargava</strong></samp></h2>
-<h3 align='center'><strong><a href="https://www.kush.ksb-invented.com" target="_blank">Portfolio 🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://kush.ksb-invented.com" target="_blank">Portfolio 🌐</a></strong></h3>
 <p align='center'>Full Stack .NET Developer | Mobile App Developer | Cloud & DevOps Enthusiast</p>
 
 ---
